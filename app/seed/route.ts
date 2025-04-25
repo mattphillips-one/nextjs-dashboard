@@ -118,3 +118,7 @@ export async function GET() {
 }
 
 */
+
+export default function seed() {
+  return ('');
+}
